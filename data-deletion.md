@@ -18,7 +18,7 @@ Users may request deletion of any data associated with their authorized accounts
 
 To request deletion of your data, please send an email to:
 
-📧 **privacy@yourdomain.com**
+📧 **orashameem@gmail.com**
 
 Include the following information in your request:
 - The name of the app: *Watch Market Intelligence Tool*
@@ -57,4 +57,4 @@ No data will be retained after deletion is completed.
 
 If you have questions regarding data deletion, please contact:
 
-📧 **privacy@yourdomain.com**
+📧 **orashameem@gmail.com**
